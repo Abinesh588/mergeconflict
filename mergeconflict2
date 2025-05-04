@@ -1,0 +1,2 @@
+When a function is expensive to create (like inside a loop or large component
+
